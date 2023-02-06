@@ -2,11 +2,10 @@
 title: "Contact Us"
 layout: "contact"
 draft: false
-info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+info:
+  title: Start building your platform today!
+  description: Send an email or submit a form here and begin your journey to creating a truly groundbreaking piece of software.
+  contacts:
+    - "Mail: [info@ewjam.com](mailto:info@ewjam.com)"
+    - "Address: Ground Floor, Unit B Lostock Office Park,Lynstock Way, Bolton, BL6 4SG"
 ---
